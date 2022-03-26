@@ -3,10 +3,12 @@ const router = require("express").Router();
 const {
     getAllThoughts,
     getThoughtById,
-    addThought, updateThought,
-    removeThought, addReaction,
+    addThought,
+    updateThought,
+    removeThought,
+    addReaction,
     removeReaction
-} = require("../../controllers/user-controllers");
+} = require("../../controllers/thoughts-controllers");
 
 router
     .route("/")
