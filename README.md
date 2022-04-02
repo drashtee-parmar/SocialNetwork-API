@@ -36,7 +36,13 @@ a user’s friend list
 
 ### Walkthrough Video:
 
-![USER API's](assets/videos/User_API.gif)
-![THOUGHT API's](assets/videos/Thought_API.gif)
+Deployed link for using google drive
+
+[Deployed Link for USER_API](https://youtu.be/U86eMrPnAEU)
+
+[Deployed Link for THOUGHT_API's](https://youtu.be/_FsYFxQzT0w)
+
+
+
 
 
