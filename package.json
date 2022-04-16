@@ -1,0 +1,24 @@
+{
+  "name": "socialnetwork-api",
+  "version": "1.0.0",
+  "description": "# 18 NoSQL: Social Network API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dparmar32/SocialNetwork-API.git"
+  },
+  "author": "Drashtee Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dparmar32/SocialNetwork-API/issues"
+  },
+  "homepage": "https://github.com/dparmar32/SocialNetwork-API#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
